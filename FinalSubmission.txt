@@ -1,0 +1,6 @@
+Name: Miguel 
+
+Age: 25 
+
+Address: 52 John Doe Way, San Diego CA. 67294 
+
